@@ -1,0 +1,24 @@
+
+ ID  Gym      Instructor Name    Pay Code       wk1   wk2   wk3   wk4   wk5      Total   Pay
+==============================================================================================
+ 301 Athenry  Murphy, Mary       Salary         5     6     4     5     6        26  1190.00
+ 303 Athenry  Shortt, Declan     By Class       4     5     5     8     7        29   665.00
+ 304 Renmore  Little, Maeve      Salary         3     3     4     5     3        18   996.00
+ 305 Barna    Walsh, Lisa        By Class       4     5     3     4     6        22   490.00
+ 306 Salthill Walsh, Shane       By Class       6     5     4     5     4        24   540.00
+ 307 Merlin   Lyons, Joe         By Class       5     4     6     5     5        25   565.00
+ 308 Renmore  Flynn, Sina        Salary         4     4     5     5     6        24  1140.00
+ 309 Salthill Byrne, Dean        Salary         3     3     4     2     5        17   974.00
+ 310 Salthill Nolan, Jane        By Class       4     4     4     4     4        20   440.00
+ 311 Merlin   Ryan, Jim          Salary         6     5     6     5     5        27  1215.00
+
+ Instructor and Class counts 
+
+ Placement Count:      2 Instructor Count     10 
+ Gyms:  Salthill   3 Renmore    2 Merlin     2 Barna      1 Athenry    2
+ Instructors Paid by Class:  5  Instructors Paid by Base Salary:  5 
+
+ Declan Shortt from the Athenry taught the most weekly classes over the past 5 weeks of 8
+ Salthill's Dean Byrne had the lowest total number of classes taught in 5 weeks with only 17 classes being taught
+
+ 3 Instructors got paid more than 1000.00 euros over the 5 weeks
